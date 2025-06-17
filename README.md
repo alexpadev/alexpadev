@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Alejandro Pelaez
+# Hi, I'm Alejandro Pelaez
 
 I'm a full-stack developer with experience in building complete projects with different technologies. Specialized in Node.js with Express + React applications.
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 **Languages & Tools:**
 
@@ -27,19 +27,19 @@ I'm a full-stack developer with experience in building complete projects with di
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
-[🖥️ Visit my portfolio](https://your-portfolio-link.com)
-
----
-
-## 📄 Curriculum Vitae
-
-[📂 View my resume ](https://drive.google.com/file/d/1d6v3dV0Ipj2qTWAtCnM51Lj-6rF0zhxA/view?usp=sharing)
+[Visit my portfolio](https://your-portfolio-link.com)
 
 ---
 
-## 🔗 Contact
+## Curriculum Vitae
+
+[View my resume ](https://drive.google.com/file/d/1d6v3dV0Ipj2qTWAtCnM51Lj-6rF0zhxA/view?usp=sharing)
+
+---
+
+## Contact
 
 Feel free to reach out:
 
