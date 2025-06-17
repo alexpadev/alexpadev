@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro Pelaez
 
-I'm a full-stack developer with experience in building complete projects with different technologies. Specialized in Node.js with Express + React applications.
+#### I'm a full-stack developer with experience in building complete projects with different technologies. Specialized in Node.js with Express + React applications.
 
 ---
 
@@ -27,15 +27,11 @@ I'm a full-stack developer with experience in building complete projects with di
 
 ---
 
-## Portfolio
+## Learn more about me
 
-[Visit my portfolio](https://your-portfolio-link.com)
+📂 [Visit my portfolio](https://your-portfolio-link.com)
 
----
-
-## Curriculum Vitae
-
-[View my resume ](https://drive.google.com/file/d/1d6v3dV0Ipj2qTWAtCnM51Lj-6rF0zhxA/view?usp=sharing)
+📄 [View my resume ](https://drive.google.com/file/d/1d6v3dV0Ipj2qTWAtCnM51Lj-6rF0zhxA/view?usp=sharing)
 
 ---
 
@@ -43,7 +39,7 @@ I'm a full-stack developer with experience in building complete projects with di
 
 Feel free to reach out:
 
-**Email:** [alexpa200316@gmail.com](mailto:alexpa200316@gmail.com)
+✉️ [alexpa200316@gmail.com](mailto:alexpa200316@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pelaez-almoguera-500b042b1/)
 
