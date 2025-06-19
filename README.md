@@ -29,7 +29,7 @@
 
 ## Learn more about me
 
-📂 [Visit my portfolio](https://your-portfolio-link.com)
+📂 [Visit my portfolio](https://alexpadev.github.io/portfolio/)
 
 📄 [View my resume ](https://drive.google.com/file/d/1d6v3dV0Ipj2qTWAtCnM51Lj-6rF0zhxA/view?usp=sharing)
 
